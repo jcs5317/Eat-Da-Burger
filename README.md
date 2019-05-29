@@ -1,5 +1,5 @@
 # Eat-Da-Burger
-- A full-stack application with basic CRUD functionality
+- A full-stack application with basic functionality to create and remove data.
 - Technologies: MySQL, Node, Express, Handlebars, orm methods
 ## How to use
 + Type in the burger you would like to add to the list and click "Submit."
