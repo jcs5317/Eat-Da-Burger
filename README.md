@@ -6,4 +6,4 @@
 + Click the "devour" button to move a burger to the "Devoured Burgers" list.
 + Click the "remove" button to delete the burger from list.
 ![Image] link
- ## 
+ ## Deployed site
