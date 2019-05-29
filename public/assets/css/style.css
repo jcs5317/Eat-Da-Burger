@@ -1,0 +1,18 @@
+body{
+    background-color: whitesmoke;
+}
+
+.burgers-list{
+    margin-top: 5px;
+}
+
+.burger-item{
+    padding:  5px;
+}
+
+.devour-button{
+    float: center;
+    font-size: 10pt;
+    margin: 5px;
+    
+}
